@@ -1,7 +1,7 @@
-#Description repo
+# Description repo
 
 
-##Markdown formatting
+## Markdown formatting
 
 ### Headings keep getting smaller
 
