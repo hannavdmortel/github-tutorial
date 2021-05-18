@@ -22,3 +22,5 @@ x = np.mean([43, 1, 64])
 ```
 
 To add a weblink you put it in brackets [A web link] (github.com/hannavdmortel)
+
+Additional info
